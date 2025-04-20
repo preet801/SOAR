@@ -66,6 +66,8 @@ This lab focuses on creating your own EDR and SOAR and create playbook to automa
 
 ![image](https://github.com/user-attachments/assets/972cfb9c-360f-43d1-ad74-65b38fdc7ee3)
 
+![image](https://github.com/user-attachments/assets/5dd0a894-3b41-487f-82af-c7d8a2c9156d)
+
 
 
 
