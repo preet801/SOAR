@@ -31,6 +31,9 @@ could see LimaCharlie as one of the listed services which confirms that now wind
 
 Step 7: Even on Lima Charlie windows cloud instance could be seen under the sensor list.
 ![image](https://github.com/user-attachments/assets/8ffe895c-bd0b-4c85-a4c5-1e9fdca44d31)
+
+Step 8: We needed to download the lazagne in  Windows.
+
 ![image](https://github.com/user-attachments/assets/a1b9b96c-e5ab-4789-a7d4-57d8a0ab492c)
 ![image](https://github.com/user-attachments/assets/280c59dd-2132-4f05-b4c4-a24bf3edf5fc)
 ![image](https://github.com/user-attachments/assets/df3699aa-0b30-4eaa-be13-00017fc934b7)
