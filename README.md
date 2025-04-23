@@ -7,6 +7,9 @@ This lab focuses on creating your own EDR and SOAR and create playbook to automa
 Step 1: I have spun up a cloud instance on vultr.com, naming it as SOAR-EDR.
 
 ![image](https://github.com/user-attachments/assets/9ce1cd12-0d5d-43e8-bc6c-bf140747eec8)
+
+
+Step 2: After that we go to LimaCharlie as our aggregation site and login to it and I had to create an organisation so I name it as Harpreet. 
 ![image](https://github.com/user-attachments/assets/b0f3c883-1572-442b-93ae-4422ea5074b8)
 ![image](https://github.com/user-attachments/assets/dc077a15-2143-416b-bb08-1e2931cc7c98)
 ![image](https://github.com/user-attachments/assets/85268973-ba11-48ad-9786-108ecf5cb408)
