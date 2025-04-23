@@ -18,9 +18,12 @@ Step 3: I have the server instance started on the cloud then I created firewall 
 Step 4: After that installation key was created on the LimaCharlie.
 ![image](https://github.com/user-attachments/assets/85268973-ba11-48ad-9786-108ecf5cb408)
 
-Step 5: I had installed the LimaCharlie agent on the windows machine and it will throw the logs to LimaCharlie for analysis.
+Step 5: I had installed the LimaCharlie agent on the windows machine and it will forward the logs to LimaCharlie for analysis.
 
 ![image](https://github.com/user-attachments/assets/1af57719-29bf-4382-8fa5-3d0ab534629e)
+
+Step 6: To verify LimaCharlie agent has been successfully installed on the window instance, I checked it under Services Tab and then I 
+could see LimaCharlie as one of the listed services which confirms that now windows was ready to forward the logs to the LimaCharlie.
 ![image](https://github.com/user-attachments/assets/de297f6e-e1a2-4158-ae48-a8865c4ed180)
 ![image](https://github.com/user-attachments/assets/15c1e9c0-792d-4fd4-bbec-4bd26bf1db4c)
 ![image](https://github.com/user-attachments/assets/8ffe895c-bd0b-4c85-a4c5-1e9fdca44d31)
