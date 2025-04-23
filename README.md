@@ -14,6 +14,8 @@ Step 2: After that we go to LimaCharlie as our aggregation site and login to it 
 
 Step 3: I have the server instance started on the cloud then I created firewall rules to ensure only required traffic flows towards the cloud instance.
 ![image](https://github.com/user-attachments/assets/dc077a15-2143-416b-bb08-1e2931cc7c98)
+
+Step 4: After that installation key was created on the LimaCharlie
 ![image](https://github.com/user-attachments/assets/85268973-ba11-48ad-9786-108ecf5cb408)
 ![image](https://github.com/user-attachments/assets/1af57719-29bf-4382-8fa5-3d0ab534629e)
 ![image](https://github.com/user-attachments/assets/de297f6e-e1a2-4158-ae48-a8865c4ed180)
